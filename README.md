@@ -5,7 +5,7 @@ The structure of the app is broken down in 3 tabs:
 2.  Alerts (Notifiche)
 3.  Settings (Impostazioni)
 
-##Tab Map
+## Tab Map
 In this tab you can set 2 views:
 * Satellite view
 * Streets view
@@ -15,11 +15,11 @@ A the top of the screen there are:
 * Search box where you can find a place in the map
 (Insert image)
 
-##Tab Alerts
+## Tab Alerts
 If you pass over a reserved lane the app will record the date, street and type of unauthorized lane
 (Insert Image)
 
-##Tab settings
+## Tab settings
 You select all authorization you have and the app will show in the map all lines where you can't pass.
 You can also change the color used to indicate the lines on the map
 You cans customize the alert, in particular:
