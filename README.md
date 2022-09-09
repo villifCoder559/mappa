@@ -1,5 +1,6 @@
 # Reserved-Lanes-Florence-App
-This app has been created to detect reserved lanes in Florence using Ionic Framework v4and it's available only in italian.
+This app has been created to detect reserved lanes in Florence using Ionic Framework v4. The user will be inform acoustically if there is a reserved lane near to him. 
+It's available only in italian.
 The structure of the app is broken down in 3 tabs:
 1.  Map (Mappa)
 2.  Alerts (Notifiche)
